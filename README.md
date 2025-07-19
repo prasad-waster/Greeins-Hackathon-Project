@@ -2,7 +2,7 @@
 
 **Greeins** is a web-based platform designed to promote environmental sustainability by encouraging users to adopt trees and monitor their growth. The system uses integrated AI/ML models directly in the frontend to analyze plant health and development through image uploads.
 
-Live Link - 
+Live Link - https://pratik-jumle.github.io/Greeins-Hackathon-Project/home2.html
 
 ## 🎯 Objective
 
@@ -57,13 +57,3 @@ To provide an intuitive and intelligent tool for individuals to:
 
 ---
 
-## 📈 Sample IoT Data (for demo)
-
-```json
-{
-  "temperature": 28.4,
-  "humidity": 65,
-  "soil_moisture": 58,
-  "light_intensity": 720,
-  "timestamp": "2025-07-19T10:00:00"
-}
